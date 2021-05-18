@@ -29,7 +29,7 @@
         <section class="px-8 pb-4 mb-6">
             <header class="container mx-auto pl-12">
                 <h1>
-                    <img src="/images/logo.svg" alt="Antwort" width="130" height="24">
+                    <img src="/images/logo.png" alt="Antwort" width="130" height="24">
                 </h1>
             </header>
         </section>

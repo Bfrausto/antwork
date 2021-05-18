@@ -1,9 +1,9 @@
 <x-master>
-<div class="container mx-auto px-20 py-4 bg-gray-400 ">
-    <div class="row justify-content-center">
-        <div class="col-md-8">
-            <div class="card">
-                <div class="font-bold text-lg mb-4 ">{{ __('Register') }}</div>
+    <div class="container mx-auto flex justify-center">
+        <div class="px-12 py-4 bg-yellow-100 border border-gray-300 rounded-lg">
+            <div class="col-md-8">
+                <div class="font-bold text-lg mb-4">{{ __('Registro') }}</div>
+                <div class="card-body">
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('register') }}">

@@ -5,7 +5,6 @@
 
             <img src="{{$user->avatar}}" alt="Tu avatar" class="rounded-full mr-2 absolute bottom-0 transform -translate-x-1/2 -translate-y-1/3"
             style="left:50%" width="150">
-            <p>{{$user->avatar}}</p>
         </div>
 
         <div class="flex justify-between items-center mb-4">
